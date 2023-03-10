@@ -1,7 +1,0 @@
-input:invalid {
-    border-color: red;
-  }
-  input:invalid + span {
-    color: red;
-    font-style: italic;
-  }
